@@ -18,4 +18,4 @@ Google Books API is used to autofill information about books (while adding them 
 library) based on their ISBN.
 
 ### Login Tab
-![Login Tab] (/screenshots/login-window.png)
+![Login Tab] (../screenshots/login-window.png)
