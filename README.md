@@ -1,4 +1,4 @@
-# clms
+# Claremont Library Management System
 
 Library Management System for Claremont Senior School.
 
