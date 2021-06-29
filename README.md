@@ -4,12 +4,12 @@ Library Management System for Claremont Senior School.
 
 This was the final project for my Alevel Computer Science.
 
-### Tools Used 
+## Tools Used 
 
 Python, PyQt4, MySQL, Google Books API
 
 
-### Features
+## Features
 
 Users (Students) can search for books, Staffs can issue book borrows and returns,
 add new books, new student records, as well as send automated email reminders about book returns.
@@ -17,5 +17,5 @@ add new books, new student records, as well as send automated email reminders ab
 Google Books API is used to autofill information about books (while adding them to the
 library) based on their ISBN.
 
-Login Tab
+### Login Tab
 ![alt text] (./screenshots/login-window.png)
