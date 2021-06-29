@@ -17,5 +17,9 @@ add new books, new student records, as well as send automated email reminders ab
 Google Books API is used to autofill information about books (while adding them to the
 library) based on their ISBN.
 
-### Login Tab
+### Login Window
 ![image](./screenshots/login-window.png)
+
+
+### Search Window
+![image](./screenshots/search-window.png)
