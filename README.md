@@ -26,12 +26,10 @@ library) based on their ISBN.
 
 ### Books Tab
 
-(using tab view of PyQt)
 ![image](./screenshots/books-tab.png)
 
 ### Extracting Books data using Goolge Books API
 
-(using tab view of PyQt)
 ![image](./screenshots/books-tab-isbn-extracted.png)
 
 ### Student tab
